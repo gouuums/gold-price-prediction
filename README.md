@@ -5,12 +5,11 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-LSTM-ff6f00.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Authors:** Thomas Goumont, Tom O'Connor, Antonin Meudic, Adrien Gibert
-> **Institution:** ENSAI (National School for Statistics and Data Science)  
-> **Specialisation:** Risk Management - Advanced Statistical Engineering  
+> **Authors:** Tom O'Connor, Antonin Meudic, Adrien Gibert, Thomas Goumont  
+> **Institution:** ENSAI (École Nationale de la Statistique et de l'Analyse de l'Information)  
+> **Specialisation:** Risk Management / Advanced Statistical Engineering  
 > **Supervisor:** Youssef Esstafa  
-> **Academic Year:** 2025–2026  
-
+> **Academic Year:** 2025–2026
 ---
 
 ## 📋 Project Overview
