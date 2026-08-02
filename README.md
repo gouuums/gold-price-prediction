@@ -5,7 +5,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-LSTM-ff6f00.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Authors:** Tom O'Connor, Antonin Meudic, Adrien Gibert, Thomas Goumont  
+> **Authors:** Thomas Goumont, Tom O'Connor, Antonin Meudic, Adrien Gibert
 > **Institution:** ENSAI (National School for Statistics and Data Science)  
 > **Specialisation:** Risk Management - Advanced Statistical Engineering  
 > **Supervisor:** Youssef Esstafa  
