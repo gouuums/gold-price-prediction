@@ -47,7 +47,7 @@ The project addresses the notorious low signal-to-noise ratio in financial retur
 
 ## 🗂️ Repository Structure
 
-- `ST_report (5).pdf`: Full academic research report containing detailed mathematical formulations, proofs, tables, and econometric proofs.
+- `ST_report.pdf`: Full academic research report containing detailed mathematical formulations, proofs, tables, and econometric proofs.
 - `TS_presentation.pdf`: Slide deck used for the final project defense.
 - Source code notebooks: Implementation files for data pipelines, XGBoost tuning, LSTM training, and portfolio backtesting.
 
